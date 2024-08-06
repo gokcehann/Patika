@@ -1,0 +1,14 @@
+C:\Patika\PhoneBook\obj\Debug\net8.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Patika\PhoneBook\obj\Debug\net8.0\PhoneBook.AssemblyInfoInputs.cache
+C:\Patika\PhoneBook\obj\Debug\net8.0\PhoneBook.AssemblyInfo.cs
+C:\Patika\PhoneBook\obj\Debug\net8.0\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Patika\PhoneBook\bin\Debug\net8.0\PhoneBook.exe
+C:\Patika\PhoneBook\bin\Debug\net8.0\PhoneBook.deps.json
+C:\Patika\PhoneBook\bin\Debug\net8.0\PhoneBook.runtimeconfig.json
+C:\Patika\PhoneBook\bin\Debug\net8.0\PhoneBook.dll
+C:\Patika\PhoneBook\bin\Debug\net8.0\PhoneBook.pdb
+C:\Patika\PhoneBook\obj\Debug\net8.0\PhoneBook.dll
+C:\Patika\PhoneBook\obj\Debug\net8.0\refint\PhoneBook.dll
+C:\Patika\PhoneBook\obj\Debug\net8.0\PhoneBook.pdb
+C:\Patika\PhoneBook\obj\Debug\net8.0\PhoneBook.genruntimeconfig.cache
+C:\Patika\PhoneBook\obj\Debug\net8.0\ref\PhoneBook.dll
